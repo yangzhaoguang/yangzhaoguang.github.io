@@ -1,4 +1,5 @@
 ---
+article: false
 title: 布局
 icon: object-group
 order: 2

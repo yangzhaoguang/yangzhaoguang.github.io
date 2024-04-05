@@ -1,4 +1,5 @@
 ---
+article: false
 icon: lock
 category:
   - 使用指南

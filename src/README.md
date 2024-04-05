@@ -3,10 +3,17 @@ home: true
 layout: BlogHome
 icon: home
 title: 主页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 鲨瓜
+bgImage: /bg.jpg
+bgImageDark: /bgDark.jpg
+bgImageStyle:
+    {
+        width: 100%,
+        height: auto,
+        image-rendering: pixelated
+    }
+heroText: Mr.SharkMelon
 heroFullScreen: false
-tagline: ""
+tagline: "纵有疾风起, 人生不言弃"
 
 ---
 

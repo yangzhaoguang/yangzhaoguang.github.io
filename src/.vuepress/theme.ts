@@ -19,7 +19,7 @@ export default hopeTheme({
   logo: "/logo.png",
 
   // 项目仓库地址
-  repo: "https://github.com/yangzhaoguang/yangzhaoguang.github.io.git",
+  // repo: "https://github.com/yangzhaoguang/yangzhaoguang.github.io.git",
 
   docsDir: "src",
 

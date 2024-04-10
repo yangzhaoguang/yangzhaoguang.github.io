@@ -2,22 +2,26 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   "/",
-  "/LeetCode/",
   "/MySQL/",
   {
+    text: "LeetCode",
+    icon: "code",
+    link: "LeetCode/数组.md"
+  },
+  {
     text: "Microservices",
-    icon: "flex",
-    prefix: "/Microservices/",
+    icon: "leaf",
+    // prefix: "/Microservices/",
     children: [
       {
         text: "SpringCloud",
         // icon: "lightbulb",
         // prefix: "SpringCloud/",
-        link: "SpringCloud.md",
+        link: "Microservices/SpringCloud.md",
       },
       {
         text: "SpringCloud Alibaba",
-        link: "SpringCloud Alibaba.md",
+        link: "Microservices/SpringCloud Alibaba.md",
         // icon: "lightbulb",
         // prefix: "foo/",
       },

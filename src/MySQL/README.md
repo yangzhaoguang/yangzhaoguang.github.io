@@ -2,7 +2,7 @@
 article: false
 title: MySQL
 index: false
-icon: /assets/icon/MySQL.png
+icon: /assets/icon/mysql.png
 category:
   - 数据库
 tag:
